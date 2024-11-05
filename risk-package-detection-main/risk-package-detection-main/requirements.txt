@@ -8,7 +8,7 @@ autograd==1.6.2
 backcall==0.2.0
 backports.functools-lru-cache==1.6.6
 cachetools==5.3.1
-certifi @ file:///croot/certifi_1671487769961/work/certifi
+certifi
 charset-normalizer==3.2.0
 click==8.1.4
 cma==2.7.0
